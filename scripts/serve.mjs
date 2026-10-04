@@ -40,5 +40,5 @@ const server = createServer(async (request, response) => {
 });
 
 server.listen(port, () => {
-  console.log(`Index Lab running at http://localhost:${port}`);
+  console.log(`Northline Dental Supply demo running at http://localhost:${port}`);
 });
