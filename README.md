@@ -1,6 +1,6 @@
-# Index Lab
+# Northline Dental Supply SEO Lab
 
-Index Lab is a small working ecommerce SEO lab. It shows how a category page and a product page become understandable to search engines without hiding the important mechanics behind a framework.
+Northline Dental Supply is a working B2B commerce SEO lab. It shows how a category page and a product page become understandable to search engines without hiding the important mechanics behind a framework. The storefront contains 360 catalog products across 10 clinical categories and two Canadian market variants.
 
 ## What it teaches
 
@@ -26,6 +26,8 @@ Open [http://localhost:4173](http://localhost:4173).
 ## Pages to inspect
 
 - `/` explains the model and links to the working pages.
+- `/en-ca/` is the English storefront entry point.
+- `/fr-ca/` is the French storefront entry point.
 - `/en-ca/dental/restorative-materials/` is the English category page.
 - `/fr-ca/dentaire/materiaux-de-restauration/` is the French category page.
 - Each product page contains Product JSON-LD, BreadcrumbList, canonical, and `hreflang` output.
